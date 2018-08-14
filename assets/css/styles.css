@@ -10,6 +10,7 @@
 }
 
 .wip-div {
-    position: relative;
+    position: static;
     align-self: center;
+    margin-top: 12%;
 }
