@@ -1,0 +1,15 @@
+/* 
+ Custom styles by Keena
+*/
+
+.wip {
+    color: black;
+    padding: 10px 100px;
+    border: solid 1px black;
+    text-align: center;
+}
+
+.wip-div {
+    position: relative;
+    align-self: center;
+}
